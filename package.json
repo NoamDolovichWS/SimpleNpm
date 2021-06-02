@@ -1,0 +1,24 @@
+{
+  "name": "SimpleNpm",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NoamDolovichWS/SimpleNpm.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NoamDolovichWS/SimpleNpm/issues"
+  },
+  "homepage": "https://github.com/NoamDolovichWS/SimpleNpm#readme",
+  "dependencies": {
+    "c": "^1.1.1",
+    "q": "^1.5.1"
+  }
+}
